@@ -1,0 +1,28 @@
+{
+  "version": "7.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "kedi",
+      "points": [
+        [
+          112.02661207778917,
+          48.055271238485204
+        ],
+        [
+          667.8096212896622,
+          681.6274309109518
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "2-kedi.jpg",
+  "imageData": null,
+  "imageHeight": 700,
+  "imageWidth": 700
+}

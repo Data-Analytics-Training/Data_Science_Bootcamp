@@ -1,0 +1,28 @@
+{
+  "version": "7.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "kopek",
+      "points": [
+        [
+          194.93346980552715,
+          77.73797338792225
+        ],
+        [
+          593.0910951893551,
+          636.5916069600819
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "2-kopek.jpg",
+  "imageData": null,
+  "imageHeight": 700,
+  "imageWidth": 700
+}
