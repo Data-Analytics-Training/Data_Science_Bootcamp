@@ -1,0 +1,19 @@
+# IDE / editor files and Posit internal state (should not be published)
+.idea/
+.vscode/
+.posit/
+
+# Jupyter cache & runtime state
+.DStore
+.ipynb_checkpoints/
+
+# Large / regenerable model binaries (retrain by running the notebooks)
+*.keras
+*.h5
+*.weights.h5
+
+# Large dataset (exceeds Git's per-file size limits)
+imbd_dataset.csv
+
+# OS files
+.DS_Store
