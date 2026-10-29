@@ -4,7 +4,6 @@
 .posit/
 
 # Jupyter cache & runtime state
-.DStore
 .ipynb_checkpoints/
 
 # Large / regenerable model binaries (retrain by running the notebooks)
@@ -17,3 +16,7 @@ imbd_dataset.csv
 
 # OS files
 .DS_Store
+
+# environments
+.venv/
+venv/
