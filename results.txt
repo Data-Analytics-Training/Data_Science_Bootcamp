@@ -1,0 +1,41 @@
+============================================================
+Integrated Machine Learning Application - Results
+============================================================
+Started at: 2026-08-27 13:56:56
+============================================================
+
+============================================================
+Section 2 - Clustering Analysis
+============================================================
+[Clustering] K-Means | Optimal K: 5
+[Clustering] K-Means | Silhouette Score: 0.72
+[Clustering] K-Means | Elbow & Silhouette Plot: clustering_elbow_silhouette.png
+[Clustering] K-Means | Cluster Scatter Plot: clustering_scatter.png
+
+============================================================
+Section 3 - Text Sentiment Analysis
+============================================================
+[Sentiment Analysis] SimpleRNN | Test Accuracy: 0.6138
+[Sentiment Analysis] SimpleRNN | Test Loss: 0.6317
+
+============================================================
+Section 2 - Clustering Analysis
+============================================================
+[Clustering] K-Means | Optimal K: 5
+[Clustering] K-Means | Silhouette Score: 0.72
+[Clustering] K-Means | Elbow & Silhouette Plot: clustering_elbow_silhouette.png
+[Clustering] K-Means | Cluster Scatter Plot: clustering_scatter.png
+
+============================================================
+Section 1 - Regression Analysis
+============================================================
+[Regression] Linear Regression | MSE: 43795.59
+[Regression] Linear Regression | R²: 0.911
+[Regression] Ridge | MSE: 43846.33
+[Regression] Ridge | R²: 0.911
+[Regression] PCR (3 components) | MSE: 138874.36
+[Regression] PCR (3 components) | R²: 0.719
+[Regression] PLS (3 components) | MSE: 50872.84
+[Regression] PLS (3 components) | R²: 0.897
+[Regression] Artificial Neural Network (MLP) | MSE: 28551.11
+[Regression] Artificial Neural Network (MLP) | R²: 0.942

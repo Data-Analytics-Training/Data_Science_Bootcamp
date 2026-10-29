@@ -1,13 +1,22 @@
 [project]
-name = "data-science-bootcamp"
+name = "Data_Science_Bootcamp"
 version = "0.1.0"
-description = "Add your description here"
+description = ""
 readme = "README.md"
 authors = [
     { name = "Onur DOKER", email = "odoker@msn.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "colorama>=0.4.6",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.0",
+    "pandas-stubs~=3.1.0",
+    "scikit-learn>=1.9.1",
+    "tabulate>=0.10.0",
+    "tensorflow>=2.22.0rc0",
+]
 
 [project.scripts]
 data-science-bootcamp = "data_science_bootcamp:main"
